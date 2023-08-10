@@ -22,11 +22,11 @@ My real name is Joaquin but my nickname has always been Mozcko, I'm studying a C
     <li>VS Code <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a></li>
   </ul>
 
-## My GitHub Stats
-![Alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozcko&langs_count=10&theme=tokyonight&layout=compact) 
+<h2 align="left">GitHub stats: </h2>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozcko&langs_count=10&theme=tokyonight&layout=compact" alt="Luis Cruz :: Top Langs" / height="200" width="400"> 
+<align="right"><img src="https://github-readme-stats.vercel.app/api?username=mozcko&show_icons=true" alt="Luis Cruz :: Profile Stats" / height="230" width="400">
+</p>
 
-![Alt text](https://github-readme-stats.vercel.app/api?username=Mozcko&show_icons=true)
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bmozcko%7D/count.svg" alt="Mozcko :: Visitor's Count" /></p>
 
-
-# visitors count 
-![Alt text](https://profile-counter.glitch.me/%7Bmozcko%7D/count.svg)
