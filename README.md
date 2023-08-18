@@ -8,6 +8,7 @@ My real name is Joaquin but my nickname has always been Mozcko, I'm studying a C
 - 💬 Ask me about Python, Open Source or Linux (I use Arch BTW)
 - 📫 How to reach me: you can contact me via Email at: [contacto@joaquinramos.dev]() or [joaquin.ramosff@gmail.com]()
 - ⚡ Fun fact: I'm a Scout since 2007
+- 👀 Check out my Web Portfolio at [joaquinramos.dev](https://https://joaquinramos.dev)
 
 ## My Stack
 
