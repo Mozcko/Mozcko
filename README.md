@@ -2,15 +2,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
+<p align="left">
+  <br><br>🔭 I’m currently working as an Automation Intern at DHL-SupplyChain Mexico
+  <br><br>🌱 I’m currently studying Computer Science Engeneering
+  <br><br>👯 I’m looking to collaborate on any type of projects
+  <br><br>💬 Ask me about Python, Open Source or Linux
+  <br><br>📫 How to reach me: you can contact me via Email at: [contacto@joaquinramos.dev]() or [joaquin.ramosff@gmail.com]()
+  <br><br>⚜ Fun fact: I'm a Scout since 2007
+  <br><br>👀 Check out my Web Portfolio at <a href="https://joaquinramos.dev">joaquinramos.dev</a>
+</p>
 
-- 🔭 I’m currently working as an Automation Intern at DHL-SupplyChain Mexico
-- 🌱 I’m currently stoudying Computer Science Engeneering
-- 👯 I’m looking to collaborate on any type of open source projects
-- 💬 Ask me about Python, Open Source or Linux
-- 📫 How to reach me: you can contact me via Email at: [contacto@joaquinramos.dev]() or [joaquin.ramosff@gmail.com]()
-- ⚡ Fun fact: I'm a Scout since 2007
-- 👀 Check out my Web Portfolio at [joaquinramos.dev](https://joaquinramos.dev)
 
 ###
 
@@ -34,9 +36,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -44,9 +50,17 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
 </div>
 
 ###
