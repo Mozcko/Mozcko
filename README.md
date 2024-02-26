@@ -8,7 +8,7 @@
   <br><br>🌱 I’m currently studying Computer Science Engeneering
   <br><br>👯 I’m looking to collaborate on any type of projects
   <br><br>💬 Ask me about Python, Open Source or Linux
-  <br><br>📫 How to reach me: you can contact me via Email at: [contacto@joaquinramos.dev]() or [joaquin.ramosff@gmail.com]()
+  <br><br>📫 How to reach me: you can contact me via Email at: <a href ="#">contacto@joaquinramos.dev</a> or <a href ="#">joaquin.ramosff@gmail.com</a>
   <br><br>⚜ Fun fact: I'm a Scout since 2007
   <br><br>👀 Check out my Web Portfolio at <a href="https://joaquinramos.dev">joaquinramos.dev</a>
 </p>
