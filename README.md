@@ -88,8 +88,29 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mozcko.mozcko&"  />
+  <a href="https://github.com/Mozcko?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mozcko?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+
+  <a href="https://github.com/Mozcko/Mozcko/stargazers">
+    <img src="https://img.shields.io/github/stars/Mozcko/Mozcko?style=social" alt="GitHub Stars" />
+  </a>
+
+  <a href="https://github.com/Mozcko/Mozcko/network/members">
+    <img src="https://img.shields.io/github/forks/Mozcko/Mozcko?style=social" alt="GitHub Forks" />
+  </a>
+
+  <a href="https://github.com/Mozcko/Mozcko/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Mozcko/Mozcko?color=blue" alt="License" />
+  </a>
+
+  <br />
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mozcko.mozcko&" alt="visitor badge"/>
 </div>
+
+
+
 
 ###
 
@@ -100,8 +121,8 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Mozcko&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="Mozcko's Stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozcko&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="Mozcko's Top Languages">
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Mozcko&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="Mozcko's Stats">
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mozcko&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="Mozcko's Top Languages">
 </div>
 
 ###
