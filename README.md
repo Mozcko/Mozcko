@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mozcko&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Mozcko&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ###
