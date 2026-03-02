@@ -16,7 +16,7 @@
   <br><br>
   💬 Ask me about Python, Open Source or Linux
   <br><br>
-  📫 How to reach me: you can contact me via Email at: <a href="mailto:contacto@joaquinramos.dev">contacto@joaquinramos.dev</a> or <a href="mailto:joaquin.ramosff@gmail.com">joaquin.ramosff@gmail.com</a>
+  📫 How to reach me: you can contact me via Email at: <a href="mailto:contacto@joaquinramos.dev">contacto@joaquinramos.dev</a>
   <br><br>
   ⚜ Fun fact: I'm a Scout since 2007
   <br><br>
